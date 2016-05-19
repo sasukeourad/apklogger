@@ -9,7 +9,7 @@ This can be done using :
 # TODO
 - [ ] List all running applications
 - [ ] Wrapper to choose and launch an installed application
-- [ ] List calsses 
+- [ ] List classes 
 - [ ] List function prototypes (input parametrs, types, return value)
 - [ ] List internal variables
 - [ ] Log executed function calls
